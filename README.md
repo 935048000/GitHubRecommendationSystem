@@ -1,2 +1,4 @@
 # GitHubRecommendationSystem
 GitHub recommendation engine based on collaborative filtering
+
+基于协同过滤的GitHub推荐引擎
